@@ -18,3 +18,6 @@
 <h2>Roadmap</h2>
 Plan to add a button for help information
 
+<h2>License<h2>
+Ramarahavendar/MBTA_tracker is licensed under the MIT License
+
